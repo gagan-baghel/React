@@ -2,7 +2,7 @@
 
 NETLIFY HOISTED LINK----- https://chess-leaderboard.netlify.app/
 
-#Designed With the Help of |-- HTML --- CSS — REACT JS --| 
+#Designed With the Help of |-- HTML --- CSS — REACT JS -- TAILWIND --| 
 
 This is a responsive website made in React js.
 In this the data is fetched from an api and displayed in a user friendly manner .

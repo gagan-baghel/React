@@ -1,3 +1,26 @@
+# ProductCart_BOOTSTRAP
+
+Designed this product cart with the help of html css and javascript 
+learned abou state hooks Effect hooks 
+how to pass data in react manipulate state in functional component 
+manipulate form in functional component as well as class component 
+how functional component use to render in page and how to render element dynamicallly
+
+1. you can make a list of the products with their price 
+2. Reset the list to empty list 
+3. delete product from cart
+4. Increase the number of product 
+and you are able to see the total abount of yourt cart
+
+** HERE IS THE VISUAL REPRESENTATION OF THE PROJECT **
+
+![CART](https://user-images.githubusercontent.com/78648366/216846842-978bcaab-9afc-4587-aa3a-a336492a140b.gif)
+
+
+
+##  WANT TO BEGIN WITH THIS PROJECT  ##      
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

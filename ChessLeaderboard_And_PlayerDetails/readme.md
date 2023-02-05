@@ -16,3 +16,31 @@ We hope this page helps you stay up-to-date with the latest chess news and ranki
 * HERE IS THE VISUAL REPRESENTATION OF THIS PROJECT *
 
 ![CHESSDATA](https://user-images.githubusercontent.com/78648366/216847437-a920acfb-1db2-402d-8952-6483869993c6.gif)
+
+
+## WANT TO START WITH THE PROJECT ## 
+
+### Getting Started to a React Project with Vite
+
+This project is a React project using Vite as the development server.
+
+## Prerequisites
+- Node.js version 12 or higher 
+- NPM version 6 or higher 
+- Vite version 2 or higher 
+
+## Installation 
+1. Clone the repository: `` 
+2. Install the dependencies: `npm install` 
+3. Start the development server: `npm run dev` 
+4. Open http://localhost:3000 in your browser to view the project 
+
+ ## Usage 
+1. Edit files in the `src` directory to make changes to your project  
+2. Run `npm run dev` to start the development server and preview changes  
+
+ ## Deployment  
+1. Build a production version of your project with `npm run build`  
+2. Deploy the contents of the `dist` directory to your hosting provider
+
+
